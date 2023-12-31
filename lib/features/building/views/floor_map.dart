@@ -121,6 +121,7 @@ class _FloorMapState extends State<FloorMap> with TickerProviderStateMixin {
             child: InteractiveViewer(
               constrained: false,
               transformationController: tctrl,
+              minScale: .2,
               maxScale: 50,
               child: Flow(
                 delegate: FloorMapDelegate(worldData!, extendedViewport),
