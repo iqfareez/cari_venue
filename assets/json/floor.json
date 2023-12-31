@@ -1,0 +1,418 @@
+{
+  "data": {
+    "E1": {
+      "L1": [
+        {
+          "id": "STORE_1",
+          "name": "STORE_1"
+        },
+        {
+          "id": "RECORD_ROOM",
+          "name": "RECORD_ROOM"
+        },
+        {
+          "id": "STORE_2",
+          "name": "STORE_2"
+        },
+        {
+          "id": "LR1",
+          "name": "LR1"
+        },
+        {
+          "id": "LR2",
+          "name": "LR2"
+        },
+        {
+          "id": "STORE_3",
+          "name": "STORE_3"
+        },
+        {
+          "id": "BANQUET_ROOM",
+          "name": "BANQUET_ROOM"
+        },
+        {
+          "id": "MAIN_CONF_ROOM",
+          "name": "MAIN_CONF_ROOM"
+        },
+        {
+          "id": "TOILET_M",
+          "name": "TOILET_M"
+        },
+        {
+          "id": "TOILET_F",
+          "name": "TOILET_F"
+        },
+        {
+          "id": "COURTYARD",
+          "name": "COURTYARD"
+        },
+        {
+          "id": "PG_ROOM_BR_SM",
+          "name": "PG_ROOM_BR_SM"
+        },
+        {
+          "id": "PG_ROOM_BR",
+          "name": "PG_ROOM_BR"
+        },
+        {
+          "id": "WASTE_DISPOSAL",
+          "name": "WASTE_DISPOSAL"
+        },
+        {
+          "id": "MECHATRONICS_LAB",
+          "name": "MECHATRONICS_LAB"
+        },
+        {
+          "id": "CHEMICAL_ROOM",
+          "name": "CHEMICAL_ROOM"
+        },
+        {
+          "id": "STAFF_ROOM_1",
+          "name": "STAFF_ROOM_1"
+        },
+        {
+          "id": "DO_SYNDICATE_MEETING_ROOM_1",
+          "name": "DO_SYNDICATE_MEETING_ROOM_1"
+        },
+        {
+          "id": "DO_PRINTING_ROOM",
+          "name": "DO_PRINTING_ROOM"
+        },
+        {
+          "id": "DO_STORE",
+          "name": "DO_STORE"
+        },
+        {
+          "id": "SYNDICATE_ROOM_4",
+          "name": "SYNDICATE_ROOM_4"
+        },
+        {
+          "id": "VIDEO_CONF_ROOM",
+          "name": "VIDEO_CONF_ROOM"
+        },
+        {
+          "id": "SYNDICATE_MEETING_ROOM_2",
+          "name": "SYNDICATE_MEETING_ROOM_2"
+        },
+        {
+          "id": "STAFF_ROOM_1",
+          "name": "STAFF_ROOM_1"
+        },
+        {
+          "id": "STAFF_ROOM_3",
+          "name": "STAFF_ROOM_3"
+        },
+        {
+          "id": "EXEC_COMPUTER_ROOM",
+          "name": "EXEC_COMPUTER_ROOM"
+        },
+        {
+          "id": "SYNDICATE_MEETING_ROOM_5",
+          "name": "SYNDICATE_MEETING_ROOM_5"
+        },
+        {
+          "id": "STAFF_ROOM_4",
+          "name": "STAFF_ROOM_4"
+        },
+        {
+          "id": "STAFF_ROOM_2",
+          "name": "STAFF_ROOM_2"
+        },
+        {
+          "id": "STAFF_ROOM",
+          "name": "STAFF_ROOM"
+        },
+        {
+          "id": "KITCHEN",
+          "name": "KITCHEN"
+        },
+        {
+          "id": "MANAGER_ROOM_1",
+          "name": "MANAGER_ROOM_1"
+        },
+        {
+          "id": "MANAGER_ROOM_2",
+          "name": "MANAGER_ROOM_2"
+        },
+        {
+          "id": "SYNDICATE_MEETING_ROOM_3",
+          "name": "SYNDICATE_MEETING_ROOM_3"
+        },
+        {
+          "id": "MEETING_ROOM",
+          "name": "MEETING_ROOM"
+        }
+      ],
+      "l2": [
+        {
+          "id": "staff_room_14",
+          "name": "staff_room_14"
+        },
+        {
+          "id": "staff_room_15",
+          "name": "staff_room_15"
+        },
+        {
+          "id": "staff_room_16",
+          "name": "staff_room_16"
+        },
+        {
+          "id": "staff_room_12",
+          "name": "staff_room_12"
+        },
+        {
+          "id": "staff_room_11",
+          "name": "staff_room_11"
+        },
+        {
+          "id": "staff_room_9",
+          "name": "staff_room_9"
+        },
+        {
+          "id": "staff_room_7",
+          "name": "staff_room_7"
+        },
+        {
+          "id": "staff_room_5",
+          "name": "staff_room_5"
+        },
+        {
+          "id": "staff_room_13",
+          "name": "staff_room_13"
+        },
+        {
+          "id": "staff_room_10",
+          "name": "staff_room_10"
+        },
+        {
+          "id": "staff_room_8",
+          "name": "staff_room_8"
+        },
+        {
+          "id": "staff_room_6",
+          "name": "staff_room_6"
+        },
+        {
+          "id": "ddaa_dean_room",
+          "name": "ddaa_dean_room"
+        },
+        {
+          "id": "ddaa_dean_room_bath",
+          "name": "ddaa_dean_room_bath"
+        },
+        {
+          "id": "ddaa_filing_room",
+          "name": "ddaa_filing_room"
+        },
+        {
+          "id": "ddaa_kitchen",
+          "name": "ddaa_kitchen"
+        },
+        {
+          "id": "ddaa_store",
+          "name": "ddaa_store"
+        },
+        {
+          "id": "ddaa_sr_asst_dir_room_1",
+          "name": "ddaa_sr_asst_dir_room_1"
+        },
+        {
+          "id": "ddaa_sr_asst_dir_room_2",
+          "name": "ddaa_sr_asst_dir_room_2"
+        },
+        {
+          "id": "ddaa_waiting_room",
+          "name": "ddaa_waiting_room"
+        },
+        {
+          "id": "ddaa_dep_dean_room_1",
+          "name": "ddaa_dep_dean_room_1"
+        },
+        {
+          "id": "ddaa_sec_room",
+          "name": "ddaa_sec_room"
+        },
+        {
+          "id": "ddaa_sec_room_2",
+          "name": "ddaa_sec_room_2"
+        },
+        {
+          "id": "ddaa_computer_room",
+          "name": "ddaa_computer_room"
+        },
+        {
+          "id": "ddaa_dean_sec_room",
+          "name": "ddaa_dean_sec_room"
+        },
+        {
+          "id": "male_toilet_1",
+          "name": "male_toilet_1"
+        },
+        {
+          "id": "female_toilet_1",
+          "name": "female_toilet_1"
+        },
+        {
+          "id": "staff_room_26",
+          "name": "staff_room_26"
+        },
+        {
+          "id": "staff_room_25",
+          "name": "staff_room_25"
+        },
+        {
+          "id": "staff_room_29",
+          "name": "staff_room_29"
+        },
+        {
+          "id": "staff_room_30",
+          "name": "staff_room_30"
+        },
+        {
+          "id": "staff_room_28",
+          "name": "staff_room_28"
+        },
+        {
+          "id": "staff_room_27",
+          "name": "staff_room_27"
+        },
+        {
+          "id": "staff_lounge_1",
+          "name": "staff_lounge_1"
+        },
+        {
+          "id": "enginius_meet_room",
+          "name": "enginius_meet_room"
+        },
+        {
+          "id": "lr_24",
+          "name": "lr_24"
+        },
+        {
+          "id": "exam_hall",
+          "name": "exam_hall"
+        },
+        {
+          "id": "pg_lab",
+          "name": "pg_lab"
+        },
+        {
+          "id": "e1_conf_room_l2",
+          "name": "e1_conf_room_l2"
+        },
+        {
+          "id": "lr_9",
+          "name": "lr_9"
+        },
+        {
+          "id": "lr_8",
+          "name": "lr_8"
+        },
+        {
+          "id": "store_l2_1",
+          "name": "store_l2_1"
+        },
+        {
+          "id": "staff_room_22",
+          "name": "staff_room_22"
+        },
+        {
+          "id": "staff_room_23",
+          "name": "staff_room_23"
+        },
+        {
+          "id": "staff_room_24",
+          "name": "staff_room_24"
+        },
+        {
+          "id": "lr_7",
+          "name": "lr_7"
+        },
+        {
+          "id": "ddsa_meet_room_2",
+          "name": "ddsa_meet_room_2"
+        },
+        {
+          "id": "ddsa_meet_room_1",
+          "name": "ddsa_meet_room_1"
+        },
+        {
+          "id": "ddsa_coord_room_1",
+          "name": "ddsa_coord_room_1"
+        },
+        {
+          "id": "ddsa_coord_room_2",
+          "name": "ddsa_coord_room_2"
+        },
+        {
+          "id": "ddsa_coord_room_3",
+          "name": "ddsa_coord_room_3"
+        },
+        {
+          "id": "ddsa_waiting_area_1",
+          "name": "ddsa_waiting_area_1"
+        },
+        {
+          "id": "ddsa_waiting_area_2",
+          "name": "ddsa_waiting_area_2"
+        },
+        {
+          "id": "smart_structure_lab",
+          "name": "smart_structure_lab"
+        },
+        {
+          "id": "oscent_room",
+          "name": "oscent_room"
+        },
+        {
+          "id": "enginius_office",
+          "name": "enginius_office"
+        },
+        {
+          "id": "ddpg_room_17",
+          "name": "ddpg_room_17"
+        },
+        {
+          "id": "ddpg_room_19",
+          "name": "ddpg_room_19"
+        },
+        {
+          "id": "ddpg_room_20",
+          "name": "ddpg_room_20"
+        },
+        {
+          "id": "ddpg_room_21",
+          "name": "ddpg_room_21"
+        },
+        {
+          "id": "ddpg_room_18",
+          "name": "ddpg_room_18"
+        },
+        {
+          "id": "ddpg_printing_room",
+          "name": "ddpg_printing_room"
+        },
+        {
+          "id": "ddpg_empty_room",
+          "name": "ddpg_empty_room"
+        },
+        {
+          "id": "ddpg_asst_dir_room_2",
+          "name": "ddpg_asst_dir_room_2"
+        },
+        {
+          "id": "ddpg_asst_dir_room_1",
+          "name": "ddpg_asst_dir_room_1"
+        },
+        {
+          "id": "ddaa_meet_room",
+          "name": "ddaa_meet_room"
+        },
+        {
+          "id": "student_study_area",
+          "name": "student_study_area"
+        }
+      ]
+    }
+  }
+}
